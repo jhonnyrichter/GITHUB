@@ -9,7 +9,7 @@ public class CaixaEletronico {
             System.out.println(saldo);
         }
         else
-            System.out.println("Saldo indisponível no momento, seu saldo é: " + saldo + " Valor do saque: " + valorSolicitado);
+            System.out.println("Saldo indisponível no momento, s: " + saldo + " Valor do saque: " + valorSolicitado);
         
 
         
